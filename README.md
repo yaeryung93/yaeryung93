@@ -2,7 +2,7 @@
 
 <a href="https://www.gitanimals.org/">
   <img
-    src="https://render.gitanimals.org/farms/abcd1234"
+    src="https://render.gitanimals.org/farms/yaeryung93"
     width="600"
     height="300"
   />
