@@ -1,4 +1,4 @@
-## H O M E . .
+## H O M E 
 <a href="https://www.gitanimals.org/">
   <img
     src="https://render.gitanimals.org/lines/yaeryung93"
