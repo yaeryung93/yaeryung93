@@ -1,9 +1,9 @@
 <div align="center">
-<h2> M A I N </h2> <br>
+<h3> M A I N </h3>
 <table>
   <tr>
-    <td align="center" valign="top" width="400">
-      <b>I'm learning ... 🍮</b><br><br>
+    <td align="center" valign="top" width="400"> <br>
+      <b>I'm learning ... 🍮</b><br>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
