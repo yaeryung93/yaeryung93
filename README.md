@@ -13,11 +13,7 @@
     </td>
     <td align="center" valign="middle" width="400">
       <a href="https://www.gitanimals.org/">
-        <img
-          src="https://render.gitanimals.org/lines/yaeryung93?pet-id=1"
-          width="360"
-          height="120"
-        />
+        <img src="https://render.gitanimals.org/farms/yaeryung93" width="500" height="300" />
       </a>
     </td>
   </tr>
