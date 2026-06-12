@@ -2,7 +2,7 @@
 <h3> M A I N </h3>
 <table>
   <tr>
-    <td align="center" valign="top" width="400"> <br>
+    <td align="center" valign="top" width="400"> <br><br><br>
       <b>I'm learning ... 🍮</b><br>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -13,7 +13,7 @@
     </td>
     <td align="center" valign="middle" width="400">
       <a href="https://www.gitanimals.org/">
-        <img src="https://render.gitanimals.org/farms/yaeryung93" width="500" height="300" />
+        <img src="https://render.gitanimals.org/farms/yaeryung93" width="500" height="250" />
       </a>
     </td>
   </tr>
