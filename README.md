@@ -1,9 +1,7 @@
 <div align="center">
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Teko&weight=700&size=40&pause=1200&color=000000&background=00000000&width=500&center=true&vCenter=true&lines=Welcome+to+My+GitHub!" />
 </div>
-
-<br>
+<div align="center">
 <table>
   <tr>
     <td align="center" valign="top" width="400"> <br><br><br>
