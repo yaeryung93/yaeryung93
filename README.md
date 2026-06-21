@@ -15,8 +15,8 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
     <td align="center" valign="middle" width="400">
-      <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yaeryung93&utm_content=line">
-        <img src="https://render.gitanimals.org/lines/yaeryung93?pet-id=847465308569078902" width="350" height="200" />
+      <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=yaeryung93&utm_content=farm">
+        <img src="https://render.gitanimals.org/farms/yaeryung93" width="600" height="300" />
       </a>
     </td>
   </tr>
