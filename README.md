@@ -3,7 +3,7 @@
 
 <td width="50%" valign="top" align="center">
 <br><br><br>
-<b>I'm Learning on . . .</b><br><br>
+<b>I'm Learning on . . .</b><br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -25,9 +25,8 @@
 </td>
 
 <td width="50%" align="center" valign="top">
-  <br><br>
 <a href="https://music-profile.rayriffy.com">
-<img src="https://music-profile.rayriffy.com/theme/light.svg?uid=001427.5fc373ce02314a86becbe54e97b3abf8.0430" width="350"/>
+<img src="https://music-profile.rayriffy.com/theme/light.svg?uid=001427.5fc373ce02314a86becbe54e97b3abf8.0430" width="400"/>
 </a>
 
 </td>
