@@ -25,8 +25,9 @@
 </td>
 
 <td width="50%" align="center" valign="top">
+  <br><br>
 <a href="https://music-profile.rayriffy.com">
-<img src="https://music-profile.rayriffy.com/theme/light.svg?uid=001427.5fc373ce02314a86becbe54e97b3abf8.0430" width="420"/>
+<img src="https://music-profile.rayriffy.com/theme/light.svg?uid=001427.5fc373ce02314a86becbe54e97b3abf8.0430" width="350"/>
 </a>
 
 </td>
