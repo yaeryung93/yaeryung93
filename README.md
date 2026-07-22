@@ -22,11 +22,12 @@
 <h2></h2>
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=yaeryung93&utm_content=farm">
 
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=yaeryung93&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/yaeryung93?pet-id=864454326049945386"
-    width="350"
-    height="200"/>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=yaeryung93&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/yaeryung93"
+  width="300"
+  height="150"
+/>
 </a>
   
 </a>
