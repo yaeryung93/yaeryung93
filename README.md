@@ -15,21 +15,15 @@ Java를 중심으로 프로그래밍과 알고리즘을 공부하고 있으며,
   <img src="https://skillicons.dev/icons?i=java,python,c,js" />
 </p>
 
----
-
 ### Web
 <p>
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
----
-
 ### Database
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
-
----
 
 ### Tools
 <p>
