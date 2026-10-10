@@ -1,4 +1,4 @@
-# ★ Hi, I'm Yaeryung !
+# ★ Hi, I'm Yaeryung Kim
 
 ### 꾸준함을 바탕으로 성장하는 개발자 김예령입니다
 
